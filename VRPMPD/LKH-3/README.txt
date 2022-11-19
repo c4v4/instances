@@ -1,3 +1,8 @@
+SOURCE: Keld Helsgaun's LKH-3 website(http://webhotel4.ruc.dk/~keld/research/LKH-3/) 
+
+
+--- ORIGINAL README ---
+
 Vehicle routing problem with mixed pickup and delivery (VRPMPD)
 
 The subdirectory INSTANCES contains the following benchmark instances:

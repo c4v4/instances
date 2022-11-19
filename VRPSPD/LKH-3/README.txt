@@ -1,3 +1,9 @@
+SOURCE: Keld Helsgaun's LKH-3 website(http://webhotel4.ruc.dk/~keld/research/LKH-3/) 
+NOTE: DETHLOFF CON3-0 instance contained an error in the coordinates of vertex 2.
+
+
+--- ORIGINAL README ---
+
 Vehicle routing problem with simultaneous pickup and delivery (VRPSPD)
 
 The subdirectory INSTANCES contains the following benchmark instances:
